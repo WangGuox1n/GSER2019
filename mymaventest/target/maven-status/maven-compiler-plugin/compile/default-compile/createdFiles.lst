@@ -1,4 +1,6 @@
-Dog.class
-GreetingTransformer.class
-Main.class
-GreetingAgent.class
+jmtrace\MemoryAccessTrace.class
+jmtrace\MethodAdapter.class
+jmtrace\TraceAgent.class
+jmtrace\TraceAgent$1.class
+jmtrace\ClassAdapter.class
+jmtrace\ASMTest.class
